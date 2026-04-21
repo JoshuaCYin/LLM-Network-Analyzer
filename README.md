@@ -15,8 +15,6 @@ The analysis follows a simple pipeline:
 5. Optionally perform traceroutes to top destinations.
 6. Optionally analyze results with an LLM for insights on patterns and issues.
 
-For a visual overview, check out the diagrams in the /Diagrams folder.
-
 ## How to run it
 
 1. Install dependencies: `pip install -r requirements.txt`
